@@ -1,5 +1,5 @@
 body {
-    font: 20px Arial,sans-serif;
+    font: 17px Arial,sans-serif;
 }
 
 .navbar {
@@ -17,6 +17,11 @@ body {
 
 .parceiros {
     background-color: #58faf4;
+    padding-top: 0;
+}
+
+.servicos {
+    padding-top: 0;
 }
 
 .bg-footer {
