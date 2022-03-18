@@ -1,6 +1,6 @@
 ## DIO.bootstrap
 
-### Projeto frontend utizando o framework bootstrap 
+### Projeto front-end utizando o framework bootstrap 
 
 Neste projeto - feito pela plataforma Digital One Innovation com o professor Rafael Galleani - utilizamos o mais conhecido framework para front-end: o bootstrap. Em conjunto com alguns dos principais conceitos de HTML e CSS, criamos um site simples apenas para aplicar tudo que aprendemos.
 
